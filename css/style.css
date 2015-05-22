@@ -9,3 +9,7 @@ body {
     margin: 0;
     text-shadow: 0px 1px 4px rgba(0,0,0,0.2);
 }
+
+.flag {
+    max-width: 80px;
+}
