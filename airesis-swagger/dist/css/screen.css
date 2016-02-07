@@ -1242,10 +1242,15 @@
   margin: 0 10px 0 0;
 }
 .swagger-section #header form#api_selector .input input#input_apiKey {
-  width: 200px;
+  width: 100px;
 }
+
+.swagger-section #header form#api_selector .input input {
+  width: 100px;
+}
+
 .swagger-section #header form#api_selector .input input#input_baseUrl {
-  width: 400px;
+  width: 300px;
 }
 .swagger-section #header form#api_selector .input a#explore {
   display: block;
